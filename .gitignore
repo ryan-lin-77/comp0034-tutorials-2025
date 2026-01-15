@@ -129,7 +129,6 @@ instance/*
 ### COMP0034 files
 docs/tutor
 docs/tutor/*
-docs/md_to_pdf
 src/dash_app/dash_paralympics.py
 src/streamlit_app/streamlit_paralympics.py
 src/flask_app/templates/paralympics.html
@@ -139,3 +138,11 @@ src/flask_app/flask_paralympics.py
 .idea
 comp0034_activities.egg-info
 *.egg-info
+/docs/md_to_pdf/
+/docs/md_to_pdf/fonts/
+/docs/md_to_pdf/images/
+/docs/md_to_pdf/templates/
+/docs/md_to_pdf/merge-multi-to-one-pdf.sh
+/docs/md_to_pdf/mermaid-filter.err
+/docs/md_to_pdf/pdf-weasy.css
+/docs/md_to_pdf/README.md
