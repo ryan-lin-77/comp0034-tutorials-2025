@@ -28,3 +28,7 @@ Intended course structure:
 8. Week 8 Integration with the front-end app
 9. Week 9 Testing
 10. Week 10 No new content
+
+## F.A.Q.
+1. I am getting an error called 'SSL: CERTIFICATE_VERIFY_FAILED' on MacOS
+   - Open Finder > Applications > Python 3.XX (could be 3.8, 3,12m etc.) > Install Cerfiticate.command
